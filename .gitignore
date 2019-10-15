@@ -29,7 +29,7 @@ hs_err_pid*
 .settings/
 
 # Subproject files
-./bead-core/target/
+./bead-core/target
 ./bead-core/.project
 ./bead-core/.classpath
 ./bead-core/.settings/

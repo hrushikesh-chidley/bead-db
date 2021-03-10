@@ -19,7 +19,7 @@
 
 		<!-- dependency versions -->
 		<reflections.version>0.9.11</reflections.version>
-		<jetty.version>9.4.15.v20190215</jetty.version>
+		<jetty.version>11.0.1</jetty.version>
 		<jackson-databind.version>2.9.10.1</jackson-databind.version>
 
 		<!-- plugin versions -->
